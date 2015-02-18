@@ -11,6 +11,11 @@
   </head>
 
   <body>
+<!-- Google Tag Manager dataLayer interface -->
+<!-- See https://developers.google.com/tag-manager/devguide -->
+<script>
+dataLayer = [];
+</script>
 <!-- Google Tag Manager -->
 <!-- Commented out while testing BETA below
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NLHPLT"
@@ -37,7 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <h2></h2>
 
         <section id="downloads">
-          <a href="https://github.com/shakefu" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="https://github.com/shakefu" class="btn btn-github" onclick="dataLayer.push({event: 'github-view'})"><span class="icon"></span>View on GitHub</a>
         </section>
       </div>
     </header>
