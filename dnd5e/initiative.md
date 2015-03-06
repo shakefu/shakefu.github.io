@@ -1,4 +1,4 @@
-# Table Order and Reflex Rounds
+## Table Order and Reflex Rounds
 
 This is a variant on Group Initiative.
 
@@ -14,7 +14,10 @@ Before combat starts, all players and NPCs with a reflex round may move and take
 
 After the Reflex Round, combat proceeds normally using Table Order.
 
-#### Example:
+---
+
+#### Example
+
 Leonus (+9 Initiative), Krogan (-1), and Raegar (+1, advantage) encounter a group of 3 Spined Devils (+2) and a Shadow Demon (+3).
 
 DM: "Roll Initiative!"  
@@ -32,6 +35,8 @@ Krogan: "I cast Shield of Faith on myself."
 After the Reflex Round, the first combat round begins starting with the player seated left of the DM, since the players won the Initiative Contest, and continues clockwise until combat is finished.
 
 ---
+
+#### Comments
 
 I think this strikes a balance between Group Initiative, which makes feats like Alert much, much less useful, and Individual Initiative, which makes it hard to remember whose turn comes up next, or occasionally, whether everyone has had their turn.
 
