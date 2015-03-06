@@ -2,11 +2,11 @@
 
 This is a variant on Group Initiative.
 
-Start with DM and players rolling Initiative. If at least half the players beat the DM's roll (using the highest NPC initiative), the players will go first, otherwise the DM/monsters go first. This is the "Initiative Contest".
+Start with DM and players rolling Initiative. If at least half the players beat the DM's roll (using the highest NPC initiative), the players will go first, otherwise the DM/monsters go first. This is the **Initiative Contest**.
 
-Play always starts at the player to the left of the DM, or with DM, depending on who wins the Initiative Contest. Play always proceeds clockwise through the seated order. This is the "Table Order".
+Play always starts at the player to the left of the DM, or with DM, depending on who wins the Initiative Contest. Play always proceeds clockwise through the seated order. This is the **Table Order**.
 
-If a player rolls a natural 20, or scores a 20 or above on their initiative, then that player will get a chance to move and use a bonus action before combat starts, which is called a "Reflex Round". Players with a negative initiative score may still get a Reflex Round on a natural 20.
+If a player rolls a natural 20, or scores a 20 or above on their initiative, then that player will get a chance to move and use a bonus action before combat starts, which is called a **Reflex Round**. Players with a negative initiative score may still get a Reflex Round on a natural 20.
 
 If any of the NPCs have sufficient initiative scores that the DM's roll plus their score is above 20, they have a Reflex Round.
 
@@ -17,17 +17,18 @@ After the Reflex Round, combat proceeds normally using Table Order.
 #### Example:
 Leonus (+9 Initiative), Krogan (-1), and Raegar (+1, advantage) encounter a group of 3 Spined Devils (+2) and a Shadow Demon (+3).
 
-DM: "Roll Initiative!"
-[DM rolls 14, using the Shadow Demon's score, for a total of 17].
-Leonus: "I rolled 26."
-Krogan: "I rolled a natural 20."
-Raegar: "I rolled a 4."
-DM: "With advantage?"
-Raegar: "... yes."
-DM: "Okay, players go first. Leonus and Krogan get a reflex round."
-[Leonus and Krogan may move and take one bonus action.]
-Leonus: "I move 30 feet back and Hide."
+DM: "Roll Initiative!"  
+[DM rolls 14, using the Shadow Demon's score, for a total of 17].  
+Leonus: "I rolled 26."  
+Krogan: "I rolled a natural 20."  
+Raegar: "I rolled a 4."  
+DM: "With advantage?"  
+Raegar: "... yes."  
+DM: "Okay, players go first. Leonus and Krogan get a reflex round."  
+[Leonus and Krogan may move and take one bonus action.]  
+Leonus: "I move 30 feet back and Hide."  
 Krogan: "I cast Shield of Faith on myself."
+
 After the Reflex Round, the first combat round begins starting with the player seated left of the DM, since the players won the Initiative Contest, and continues clockwise until combat is finished.
 
 ---
